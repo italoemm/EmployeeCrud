@@ -1,5 +1,5 @@
 # Employee-Management-CRUD
-Build a Basic and Simple CRUD Management of Employee with Login with JDBC, JAVA, MY SQL,SWING for Beginners .
+Build a Basic and Simple CRUD Management of Employee FROM SCRATCH with Login with JDBC, JAVA, MY SQL,SWING for Beginners .
 
 This application pretty much is going be used by a Manager , where he’s going  make a CRUD of employee in your department, like insert a employee,  give a rise or anything like that. Also, there’s a CEO of Company that is going track what Manager did with a specific employee, like if Manager give a rise to his employee, the CEO  is going see it and why Manager did it.
 
