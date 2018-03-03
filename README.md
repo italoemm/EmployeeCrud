@@ -6,6 +6,7 @@ This application pretty much is going be used by a Manager , where he’s going 
 
 # Pre-requisites
 * ECLIPSE
+* JDBC
 * JDK 1.8
 * MySQL-client ( I used MySql Workbench and Terminal)
 * MySQL Server
