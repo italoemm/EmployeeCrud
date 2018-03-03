@@ -10,8 +10,6 @@ This application pretty much is going be used by a Manager , where he’s going 
 * MySQL-client ( I used MySql Workbench and Terminal)
 * MySQL Server
 
-I can shared all this application portable if you want, give me a email (morais.italo@outlook.com)
-
 # To whom it may concern
 In this project I was in intent to create a simple crud application and to train a little bit of each  knowledge that I have. 
 
